@@ -1,3 +1,5 @@
+Details @ http://sv-technical.blogspot.in/2015/11/spring-boot-and-repositoryrestresource.html
+
 My name - Shailendra Verma<br>
 My email - shailendravermag@gmail.com<br>
 My blog - http://sv-technical.blogspot.in/<br>
